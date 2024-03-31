@@ -259,7 +259,7 @@ http://118.251.69.109:4022/udp/239.76.245.254:1234
 http://118.251.69.109:4022/udp/239.76.254.202:9000
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="教育",山东教育
 http://118.251.69.109:4022/udp/239.76.245.191:1234
-#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="付费",河南梨园
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="付费",梨园
 http://118.251.69.109:4022/udp/239.76.245.179:1234
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="付费",文物宝库
 http://118.251.69.109:4022/udp/239.76.245.180:1234
