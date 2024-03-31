@@ -269,7 +269,7 @@ http://118.251.69.109:4022/udp/239.76.245.181:1234
 http://118.251.69.109:4022/udp/239.76.245.239:1234
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://118.251.69.109:4022/udp/239.76.246.107:1234
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.com/tv/KAKU少儿.png" group-title="少儿",KAKU少儿
+#EXTINF:-1 tvg-name="kaku" tvg-logo="https://live.fanmingming.com/tv/kaku.png" group-title="少儿",KAKU少儿
 http://118.251.69.109:4022/udp/239.76.254.81:9000
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="少儿",新动漫
 http://118.251.69.109:4022/udp/239.76.245.244:1234
