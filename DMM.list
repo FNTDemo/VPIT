@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,mgstage.com
-SRC-IP-CIDR,167.179.100.144/32,no-resolve
-SRC-IP-CIDR,18.172.28.227/32,no-resolve
+IP-CIDR,167.179.100.144/32,no-resolve
+IP-CIDR,18.172.28.227/32,no-resolve
